@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createfiberglass:coke"
+    }
+  ],
+  "results": [
+    {
+      "item": "createfiberglass:coke_dust"
+    }
+  ],
+  "processingTime": 250
+}

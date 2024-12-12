@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "createfiberglass:coke_dust"
+    },
+    {
+      "item": "createfiberglass:iron_dust"
+    },
+    {
+      "item": "createfiberglass:iron_dust"
+    },
+    {
+      "item": "createfiberglass:iron_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "createfiberglass:steel_ingot"
+    },
+    {
+      "item": "createfiberglass:slag"
+    }
+  ]
+}

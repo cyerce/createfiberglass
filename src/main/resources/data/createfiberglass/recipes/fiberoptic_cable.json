@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "createfiberglass:glass_rod"
+    },
+    {
+      "item": "createfiberglass:synthetic_plastic"
+    }
+  ],
+  "results": [
+    {
+      "item": "createfiberglass:fiberoptic_cable"
+    }
+  ]
+}

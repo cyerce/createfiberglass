@@ -1,0 +1,28 @@
+{
+  "item.createfiberglass.wood_chips": "Wood Chips",
+  "item.createfiberglass.mulch": "Mulch",
+  "item.createfiberglass.glass_shards": "Glass Shards",
+  "item.createfiberglass.fiberglass_insulation": "Fiberglass Insulation",
+  "item.createfiberglass.fiberoptic_cable": "Fiber Optic Cable",
+  "item.createfiberglass.glass_rod": "Glass Rod",
+  "item.createfiberglass.synthetic_plastic": "Synthetic Plastic",
+  "item.createfiberglass.asbestos": "Asbestos",
+  "item.createfiberglass.steel_ingot": "Steel Ingot",
+  "item.createfiberglass.steel_nugget": "Steel Nugget",
+  "item.createfiberglass.steel_wool": "Powdered Steel",
+  "item.createfiberglass.coke": "Coke",
+  "item.createfiberglass.coke_dust": "Powdered Coke",
+  "item.createfiberglass.slag": "Slag",
+  "item.createfiberglass.quartz_dust": "Powdered Quartz",
+  "item.createfiberglass.quartz_paste": "Quartz Paste",
+  "item.createfiberglass.drywall": "Drywall",
+  "item.createfiberglass.unbaked_drywall": "Unbaked Drywall",
+  "item.createfiberglass.unfinished_drywall": "Incomplete Drywall",
+
+  "creativetab.createfiberglass_tab": "Create Fiberglass",
+
+  "effect.createfiberglass.fiber_optic": "Fiber Optic",
+  "effect.createfiberglass.internal_bleeding": "Internal Bleeding",
+  "effect.createfiberglass.plastic_poisoning": "Plastic Poisoning",
+  "effect.createfiberglass.mulch": "Mulch"
+}

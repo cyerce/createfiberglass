@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "createfiberglass:glass_shards"
+    },
+    {
+      "item": "createfiberglass:glass_shards"
+    },
+    {
+      "item": "createfiberglass:glass_shards"
+    },
+    {
+      "item": "createfiberglass:glass_shards"
+    }
+  ],
+  "results": [
+    {
+      "item": "createfiberglass:fiberglass_insulation"
+    }
+  ]
+}
